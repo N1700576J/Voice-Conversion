@@ -1,3 +1,5 @@
+This directory contains the code to train and run a Generative Adversarial Network for Voice Conversion 
+
 # Instructions  
 * Run the command `./vc_demo.sh <experiment id> <cmu_arctic_data_root>`  
   
