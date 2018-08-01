@@ -1,3 +1,5 @@
+This directory contains the demo code to train and run a Long Short Term Memory network for Voice Conversion.
+
 # Instructions  
 * Edit the `run_pre.sh` file and change the input and output directories.  
 * Run the script by using the command, `./run_pre.sh`  
